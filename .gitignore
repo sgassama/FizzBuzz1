@@ -1,0 +1,15 @@
+# NetBeans specific #
+build/
+nbbuild/
+dist/
+nbdist/
+nbproject/
+target/
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
